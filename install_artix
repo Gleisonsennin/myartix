@@ -1,0 +1,47 @@
+passos para pos instalacao  
+
+1-install trizen
+  install by aur
+
+2-habilitar o repositorio arch
+
+   # pacman -Syu artix-archlinux-support
+   link configuracao na wiki https://wiki.artixlinux.org/Main/Repositories#Arch_repositories
+
+
+3-instalar o i3wm dmenu bumblebee status(aur)
+
+4-editores
+  vscodium
+	nvim
+	lvim
+	nano
+  doom emacs(se ainda estiver treinando)
+
+5-programas
+  timeshift
+  tor browser
+  librewolf
+  brave
+  qtox
+  hexchat
+  thunderbird
+  rsm
+  docker
+  podman
+  vagrant
+  virtualbox
+  nitrogen
+
+
+  
+ appimages{
+          joplin
+          obsidiam
+          libreoffice
+          keepassxd
+          session
+          discord
+          kdenlive
+          }
+
